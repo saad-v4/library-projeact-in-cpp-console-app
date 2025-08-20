@@ -1,0 +1,99 @@
+1995, Author: Ahmed, Book: The Rising Sun
+1998, Author: Sara, Book: Desert Rose
+2001, Author: Khalid, Book: Journey of Hope
+1997, Author: Noor, Book: Silent Nights
+1990, Author: Michael, Book: Beyond the Sea
+2003, Author: Emma, Book: The Last Chapter
+2010, Author: David, Book: Shadows of Time
+2015, Author: Layla, Book: Whispering Sands
+2012, Author: George, Book: Echoes of Tomorrow
+2008, Author: Mariam, Book: Hidden Truths
+2018, Author: Hassan, Book: Broken Chains
+2005, Author: John, Book: Winds of Destiny
+2019, Author: Fatima, Book: Moonlight Path
+1993, Author: William, Book: Forgotten Tales
+2020, Author: Sophia, Book: Edge of Reality
+2016, Author: Omar, Book: The Lost Key
+2011, Author: Olivia, Book: Frozen Dreams
+1999, Author: Zainab, Book: Garden of Secrets
+2006, Author: Daniel, Book: Storm Riders
+2014, Author: Charlotte, Book: Crimson Horizon
+2009, Author: Yousef, Book: Whispers of the Past
+2017, Author: Isabella, Book: Golden Skies
+2021, Author: Henry, Book: Labyrinth of Souls
+1992, Author: Amelia, Book: Shattered Reflections
+2007, Author: Benjamin, Book: Voices in the Dark
+2013, Author: Aisha, Book: Twilight Sands
+2004, Author: Liam, Book: Rivers of Silence
+2022, Author: Emily, Book: Fading Echoes
+1996, Author: Mohammed, Book: Eternal Flame
+2002, Author: Rania, Book: Broken Mirrors
+2023, Author: Jacob, Book: Rise of the Forgotten
+1994, Author: Mason, Book: Song of the Wind
+2011, Author: Elijah, Book: Fragments of Time
+2000, Author: Daniela, Book: Veil of Shadows
+2019, Author: Samuel, Book: Chains of Light
+2024, Author: Lucas, Book: The Final Dawn
+1991, Author: Ethan, Book: Dark Horizons
+2015, Author: Noor, Book: Wings of Freedom
+2017, Author: Hassan, Book: The Silent Oath
+2020, Author: Amelia, Book: Circle of Fate
+2023, Author: Ali, Book: Legacy of Ashes
+2012, Author: Fatima, Book: Threads of Destiny
+2018, Author: Michael, Book: Crown of Storms
+2009, Author: Sara, Book: Falling Stars
+2021, Author: David, Book: The Burning Sky
+1998, Author: Khalid, Book: The Iron Throne
+2016, Author: Layla, Book: Whispers in the Wind
+2010, Author: George, Book: Silent Echoes
+2005, Author: Mariam, Book: Dreamcatcher
+2007, Author: Omar, Book: Shadows in the Mist
+1991, Author: Huda, Book: Echoes of the Desert
+1992, Author: Salim, Book: Winds of Change
+1993, Author: Nadia, Book: The Hidden Pearl
+1994, Author: Othman, Book: Lost Horizons
+1995, Author: Rashid, Book: Silent Storm
+1996, Author: Kareem, Book: Dreams of Fire
+1997, Author: Laila, Book: Whispering Shadows
+1998, Author: Fouad, Book: The Forgotten Kingdom
+1999, Author: Sami, Book: Voices of the River
+2000, Author: Amal, Book: Starlit Skies
+2001, Author: Yara, Book: Threads of Time
+2002, Author: Tariq, Book: The Iron Path
+2003, Author: Samira, Book: Crystal Nights
+2004, Author: Adnan, Book: The Last Embrace
+2005, Author: Mona, Book: River of Secrets
+2006, Author: Ziad, Book: Gates of Destiny
+2007, Author: Rima, Book: Silent Wings
+2008, Author: Hassan, Book: The Eternal Quest
+2009, Author: Dalia, Book: Golden Horizon
+2010, Author: Farid, Book: Labyrinth of Hope
+2011, Author: Yasmin, Book: Frozen Tears
+2012, Author: Omar, Book: Winds of the Night
+2013, Author: Nada, Book: The Last Whisper
+2014, Author: Khalil, Book: Shadows of Truth
+2015, Author: Hiba, Book: Dreams of the Sea
+2016, Author: Bassam, Book: The Crimson Path
+2017, Author: Reem, Book: Beyond the Stars
+2018, Author: Majid, Book: The Golden Flame
+2019, Author: Nour, Book: Fading Stars
+2020, Author: Faris, Book: The Rising Tide
+2021, Author: Amina, Book: The Glass Tower
+2022, Author: Jamal, Book: The Silver Moon
+2023, Author: Maya, Book: The Last Light
+1991, Author: Samir, Book: Echoes of Eternity
+1992, Author: Hanan, Book: The Silent Garden
+1993, Author: Tamer, Book: The Iron Crown
+1994, Author: Rola, Book: Tides of Memory
+1995, Author: Imran, Book: Valley of Shadows
+1996, Author: Sahar, Book: The Secret Flame
+1997, Author: Ola, Book: The Eternal Song
+1998, Author: Ibrahim, Book: Rivers of Fire
+1999, Author: Fadia, Book: The Stolen Dawn
+2000, Author: Walid, Book: Chains of Silence
+2001, Author: Hussein, Book: Shadows of Glory
+2002, Author: Lina, Book: The Shattered Crown
+2003, Author: Rashed, Book: Whispers of Eternity
+2004, Author: Dana, Book: The Crimson Veil
+2005, Author: Younes, Book: The Silent Watcher
+2006, Author: Maha, Book: The Broken SwordTHX Hayidr | feitan | 2025
